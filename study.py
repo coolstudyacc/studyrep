@@ -1,1 +1,2 @@
 print("study")
+print("study")
